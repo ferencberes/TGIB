@@ -1,3 +1,5 @@
+This repo is cloned from [sang-woo-seo/TGIB](https://github.com/sang-woo-seo/TGIB) for experimental purposes.
+
 # Self-Explainable Temporal Graph Networks based on Graph Information Bottleneck
 
 The official source code for [KDD24] Self-Explainable Temporal Graph Networks based on Graph Information Bottleneck.
